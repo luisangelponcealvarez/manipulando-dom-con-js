@@ -1,4 +1,4 @@
-# Manipulando-dom-con-js
+# manipulating dom with js
 
 ### Este es un proyecto creado con html, css, javascript lo que seprende en este proyecto es manipulara dom como son la creación de cosas por un button y eliminar esa targena con un icono 
 
