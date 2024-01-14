@@ -1,12 +1,13 @@
 # manipulating dom with js
 
-### Este es un proyecto creado con html, css, javascript lo que seprende en este proyecto es manipulara dom como son la creación de cosas por un button y eliminar esa targena con un icono 
+### This is a project created with html, css, javascript what is learned in this project is to manipulate dom as they are the creation of things for a button and delete that target with an icon
 
-### Todo esto para practica la manipulación del dom con js y como podemos hacer  aplicaciónes que guardan datos 
+### All this for practice manipulating the dom with js and how we can make applications that save data
 
-### Miniatura 
+### Thumbnail
 
-![manipulando_el_dom_img](./assets/miniatura)
+![manipulating_the_dom_img](./assets/miniatura)
 
-### Visita el sitio 
+### Visit the site
+
 [site](https://luisangelponcealvarez.github.io/manipulando-dom-con-js/)
